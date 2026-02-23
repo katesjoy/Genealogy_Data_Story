@@ -1,2 +1,7 @@
 # Genealogy_Data_Story
-Data compiled for a short data story on the searchability of genealogy records
+Data compiled for a data story on the searchability of genealogy records
+Source websites mined for data. Source websites are listed against mined numbers in the CSV file. All of these sources were re-verified on 23 February 2026.
+FamilySearch data is for personal use only. As per their website, their data can't be used for commercial purposes.
+The displayed data has been abbreviated and rounded in the e-poster/infographic data story. However, the graphs were made with the full data in the CSV file.
+FamilySearch changed the way it added and recorded digital records in 2021 and 2022 so earlier data was not utilised in the graph.
+A stable source for earlier Trove dashboard figures could not be identified. It's possible with access to a Trove API key this could be found. However, a key was not granted in time for this assignment.
