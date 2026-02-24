@@ -1,10 +1,10 @@
 FamilySearch Data,,,,
 ,,,,
-Year,Searchable Names,Digital images,Digital Books Published,Source
-2023,12.34,4.96,558444,https://web.archive.org/web/20240221222729/https://www.familysearch.org/en/newsroom/company-facts
-2024,12.99,5.15,585265,https://web.archive.org/web/20240221222729/https://www.familysearch.org/en/newsroom/company-facts
-2025,13.16,5.63,643477,https://web.archive.org/web/20250325214848/https://www.familysearch.org/en/newsroom/company-facts
-2026,16.93,5.75,651045,https://www.familysearch.org/en/newsroom/company-facts
+Year,Searchable Names,Digital images,Source,Capture date
+2023,12.34,4.96,https://web.archive.org/web/20230217161551/https://www.familysearch.org/en/newsroom/company-facts,22-Feb-26
+2024,12.99,5.15,https://web.archive.org/web/20240221222729/https://www.familysearch.org/en/newsroom/company-facts,22-Feb-26
+2025,13.16,5.63,https://web.archive.org/web/20250325214848/https://www.familysearch.org/en/newsroom/company-facts,22-Feb-26
+2026,16.93,5.75,https://www.familysearch.org/en/newsroom/company-facts,22-Feb-26
 ,,,,
 ,,,,
 ,,,,
@@ -28,8 +28,8 @@ Year,Searchable Names,Digital images,Digital Books Published,Source
 ,,,,
 Trove totals,,,,
 ,,,,
-Year,Total Number of Articles,Number of Articles with Corrections,Source,
-2022,235466138,14078073,https://web.archive.org/web/20220727032553/https://wragge.github.io/trove-newspaper-totals/,
-2023,236828585,14646230,https://web.archive.org/web/20230319091412/https://wragge.github.io/trove-newspaper-totals/,
-2024,248506723,15643808,https://wragge.github.io/trove-newspaper-totals/archive/2024-05-05.html#Total-articles-and-user-activity,
-2025,251022068,16285201,https://wragge.github.io/trove-newspaper-totals/,
+Year,Total Number of Articles,Number of Articles with Corrections,Source,Capture Date
+2022,235466138,14078073,https://web.archive.org/web/20220727032553/https://wragge.github.io/trove-newspaper-totals/,22-Feb-26
+2023,236828585,14646230,https://web.archive.org/web/20230319091412/https://wragge.github.io/trove-newspaper-totals/,22-Feb-26
+2024,248506723,15643808,https://wragge.github.io/trove-newspaper-totals/archive/2024-05-05.html#Total-articles-and-user-activity,22-Feb-26
+2025,251022068,16285201,https://wragge.github.io/trove-newspaper-totals/,22-Feb-26
