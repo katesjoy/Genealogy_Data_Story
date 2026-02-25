@@ -1,6 +1,7 @@
 # Genealogy_Data_Story
+CC BY 4.0
 Data compiled for a data story on the searchability of genealogy records.
-Source websites mined for data. Source websites are listed against mined numbers in the CSV file. All source data was entered on 22 February 2026.
+Source websites mined for data. Source websites are listed against mined numbers in the CSV file for verification. All source data was entered on 22 February 2026.
 FamilySearch data is for personal use only. As per their website, their data can't be used for commercial purposes.
 Family search total value units are billions.
 The displayed data has been abbreviated and rounded in the e-poster/infographic data story. However, the graphs were made with the full data in the CSV file within Excel.
